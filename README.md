@@ -7,7 +7,7 @@ You will create a personal portfolio website using HTML and CSS in this project.
 
 #### HTML Structure:
 Include the necessary HTML elements for a well-structured webpage (DOCTYPE declaration, html, head, and body elements).
-Use semantic HTML5 elements (such as <header>, <footer>, <nav>, <article>, <section>).
+Use semantic HTML5 elements (such as ```<header>, <footer>, <nav>, <article>, <section>```).
 Properly nest HTML elements and maintain indentation for readability.
 
 #### Content:
